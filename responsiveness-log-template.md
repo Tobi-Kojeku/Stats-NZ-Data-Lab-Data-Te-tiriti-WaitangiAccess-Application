@@ -2,10 +2,6 @@
 
 Use this template to record how input and engagement inform decisions and interpretation.
 
-> Tip: Keep entries factual, date-based, and link each item to an actual change (or an explanation if no change was made).
-
----
-
 ## 1) Entry details
 
 - **Log entry ID:** [RLP-0001]
