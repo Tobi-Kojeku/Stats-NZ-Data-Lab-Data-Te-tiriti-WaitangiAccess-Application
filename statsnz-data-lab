@@ -1,0 +1,18 @@
+statsnz-data-lab-mock-application/
+├─ README.md
+├─ five-safes/
+│  ├─ SAFE-1-Subject-Matter.md
+│  ├─ SAFE-2-Legal.md
+│  ├─ SAFE-3-Privacy.md
+│  ├─ SAFE-4-Secure-Outputs.md
+│  └─ SAFE-5-Safe-People.md
+├─ nga-tikanga-paihere/
+│  ├─ nga-tikanga-paihere.md
+│  └─ responsiveness-log-template.md
+├─ project-overview/
+│  ├─ title-and-abstract.md
+│  ├─ objectives-and-method-overview.md
+│  └─ data-access-request.md
+└─ templates/
+   ├─ stakeholder-engagement-plan-template.md
+   └─ checklist-self-assessment.md
